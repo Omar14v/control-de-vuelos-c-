@@ -1,0 +1,19 @@
+c:\users\fhkuku\documents\visual studio 2017\Projects\Ejemplo\Ejemplo\bin\Debug\Ejemplo.exe.config
+c:\users\fhkuku\documents\visual studio 2017\Projects\Ejemplo\Ejemplo\bin\Debug\Ejemplo.exe
+c:\users\fhkuku\documents\visual studio 2017\Projects\Ejemplo\Ejemplo\bin\Debug\Ejemplo.pdb
+c:\users\fhkuku\documents\visual studio 2017\Projects\Ejemplo\Ejemplo\obj\Debug\Ejemplo.csprojResolveAssemblyReference.cache
+c:\users\fhkuku\documents\visual studio 2017\Projects\Ejemplo\Ejemplo\obj\Debug\Ejemplo.Form1.resources
+c:\users\fhkuku\documents\visual studio 2017\Projects\Ejemplo\Ejemplo\obj\Debug\Ejemplo.Properties.Resources.resources
+c:\users\fhkuku\documents\visual studio 2017\Projects\Ejemplo\Ejemplo\obj\Debug\Ejemplo.csproj.GenerateResource.Cache
+c:\users\fhkuku\documents\visual studio 2017\Projects\Ejemplo\Ejemplo\obj\Debug\Ejemplo.csproj.CoreCompileInputs.cache
+c:\users\fhkuku\documents\visual studio 2017\Projects\Ejemplo\Ejemplo\obj\Debug\Ejemplo.exe
+c:\users\fhkuku\documents\visual studio 2017\Projects\Ejemplo\Ejemplo\obj\Debug\Ejemplo.pdb
+C:\Users\garyv\Downloads\ejemplo\Ejemplo\bin\Debug\Ejemplo.exe.config
+C:\Users\garyv\Downloads\ejemplo\Ejemplo\bin\Debug\Ejemplo.exe
+C:\Users\garyv\Downloads\ejemplo\Ejemplo\bin\Debug\Ejemplo.pdb
+C:\Users\garyv\Downloads\ejemplo\Ejemplo\obj\Debug\Ejemplo.csprojAssemblyReference.cache
+C:\Users\garyv\Downloads\ejemplo\Ejemplo\obj\Debug\Ejemplo.Form1.resources
+C:\Users\garyv\Downloads\ejemplo\Ejemplo\obj\Debug\Ejemplo.Properties.Resources.resources
+C:\Users\garyv\Downloads\ejemplo\Ejemplo\obj\Debug\Ejemplo.csproj.GenerateResource.cache
+C:\Users\garyv\Downloads\ejemplo\Ejemplo\obj\Debug\Ejemplo.exe
+C:\Users\garyv\Downloads\ejemplo\Ejemplo\obj\Debug\Ejemplo.pdb

@@ -1,0 +1,35 @@
+C:\Users\garyv\Downloads\ejemplo\Ejemplo\obj\Debug\ProyectoAero.csprojAssemblyReference.cache
+C:\Users\garyv\Downloads\ejemplo\Ejemplo\obj\Debug\Ejemplo.exe
+C:\Users\garyv\Downloads\ejemplo\Ejemplo\obj\Debug\Ejemplo.pdb
+C:\Users\garyv\Downloads\ejemplo\Ejemplo\bin\Debug\Ejemplo.exe.config
+C:\Users\garyv\Downloads\ejemplo\Ejemplo\bin\Debug\Ejemplo.exe
+C:\Users\garyv\Downloads\ejemplo\Ejemplo\bin\Debug\Ejemplo.pdb
+C:\Users\garyv\Downloads\ejemplo\Ejemplo\obj\Debug\Ejemplo.Interfaz.Control.resources
+C:\Users\garyv\Downloads\ejemplo\Ejemplo\obj\Debug\Ejemplo.ControlVuelos.resources
+C:\Users\garyv\Downloads\ejemplo\Ejemplo\obj\Debug\Ejemplo.Properties.Resources.resources
+C:\Users\garyv\Downloads\ejemplo\Ejemplo\obj\Debug\ProyectoAero.csproj.GenerateResource.cache
+C:\Users\garyv\Downloads\ejemplo\Ejemplo\obj\Debug\Ejemplo.Login.resources
+C:\Users\garyv\OneDrive - Instituto Superior Tecnologico Ruminahui\Cuarto\Desarrollo\Aeropuerto\ejemplo\Ejemplo\bin\Debug\Ejemplo.exe.config
+C:\Users\garyv\OneDrive - Instituto Superior Tecnologico Ruminahui\Cuarto\Desarrollo\Aeropuerto\ejemplo\Ejemplo\bin\Debug\Ejemplo.exe
+C:\Users\garyv\OneDrive - Instituto Superior Tecnologico Ruminahui\Cuarto\Desarrollo\Aeropuerto\ejemplo\Ejemplo\bin\Debug\Ejemplo.pdb
+C:\Users\garyv\OneDrive - Instituto Superior Tecnologico Ruminahui\Cuarto\Desarrollo\Aeropuerto\ejemplo\Ejemplo\obj\Debug\ProyectoAero.csprojAssemblyReference.cache
+C:\Users\garyv\OneDrive - Instituto Superior Tecnologico Ruminahui\Cuarto\Desarrollo\Aeropuerto\ejemplo\Ejemplo\obj\Debug\Ejemplo.Interfaz.Control.resources
+C:\Users\garyv\OneDrive - Instituto Superior Tecnologico Ruminahui\Cuarto\Desarrollo\Aeropuerto\ejemplo\Ejemplo\obj\Debug\Ejemplo.ControlVuelos.resources
+C:\Users\garyv\OneDrive - Instituto Superior Tecnologico Ruminahui\Cuarto\Desarrollo\Aeropuerto\ejemplo\Ejemplo\obj\Debug\Ejemplo.Login.resources
+C:\Users\garyv\OneDrive - Instituto Superior Tecnologico Ruminahui\Cuarto\Desarrollo\Aeropuerto\ejemplo\Ejemplo\obj\Debug\Ejemplo.Properties.Resources.resources
+C:\Users\garyv\OneDrive - Instituto Superior Tecnologico Ruminahui\Cuarto\Desarrollo\Aeropuerto\ejemplo\Ejemplo\obj\Debug\ProyectoAero.csproj.GenerateResource.cache
+C:\Users\garyv\OneDrive - Instituto Superior Tecnologico Ruminahui\Cuarto\Desarrollo\Aeropuerto\ejemplo\Ejemplo\obj\Debug\ProyectoAero.csproj.CoreCompileInputs.cache
+C:\Users\garyv\OneDrive - Instituto Superior Tecnologico Ruminahui\Cuarto\Desarrollo\Aeropuerto\ejemplo\Ejemplo\obj\Debug\Ejemplo.exe
+C:\Users\garyv\OneDrive - Instituto Superior Tecnologico Ruminahui\Cuarto\Desarrollo\Aeropuerto\ejemplo\Ejemplo\obj\Debug\Ejemplo.pdb
+C:\Users\garyv\OneDrive - Instituto Superior Tecnologico Ruminahui\4to\Desarrollo\Aeropuerto\ejemplo\Ejemplo\bin\Debug\Ejemplo.exe.config
+C:\Users\garyv\OneDrive - Instituto Superior Tecnologico Ruminahui\4to\Desarrollo\Aeropuerto\ejemplo\Ejemplo\bin\Debug\Ejemplo.exe
+C:\Users\garyv\OneDrive - Instituto Superior Tecnologico Ruminahui\4to\Desarrollo\Aeropuerto\ejemplo\Ejemplo\bin\Debug\Ejemplo.pdb
+C:\Users\garyv\OneDrive - Instituto Superior Tecnologico Ruminahui\4to\Desarrollo\Aeropuerto\ejemplo\Ejemplo\obj\Debug\ProyectoAero.csprojAssemblyReference.cache
+C:\Users\garyv\OneDrive - Instituto Superior Tecnologico Ruminahui\4to\Desarrollo\Aeropuerto\ejemplo\Ejemplo\obj\Debug\Ejemplo.Interfaz.Control.resources
+C:\Users\garyv\OneDrive - Instituto Superior Tecnologico Ruminahui\4to\Desarrollo\Aeropuerto\ejemplo\Ejemplo\obj\Debug\Ejemplo.ControlVuelos.resources
+C:\Users\garyv\OneDrive - Instituto Superior Tecnologico Ruminahui\4to\Desarrollo\Aeropuerto\ejemplo\Ejemplo\obj\Debug\Ejemplo.Login.resources
+C:\Users\garyv\OneDrive - Instituto Superior Tecnologico Ruminahui\4to\Desarrollo\Aeropuerto\ejemplo\Ejemplo\obj\Debug\Ejemplo.Properties.Resources.resources
+C:\Users\garyv\OneDrive - Instituto Superior Tecnologico Ruminahui\4to\Desarrollo\Aeropuerto\ejemplo\Ejemplo\obj\Debug\ProyectoAero.csproj.GenerateResource.cache
+C:\Users\garyv\OneDrive - Instituto Superior Tecnologico Ruminahui\4to\Desarrollo\Aeropuerto\ejemplo\Ejemplo\obj\Debug\ProyectoAero.csproj.CoreCompileInputs.cache
+C:\Users\garyv\OneDrive - Instituto Superior Tecnologico Ruminahui\4to\Desarrollo\Aeropuerto\ejemplo\Ejemplo\obj\Debug\Ejemplo.exe
+C:\Users\garyv\OneDrive - Instituto Superior Tecnologico Ruminahui\4to\Desarrollo\Aeropuerto\ejemplo\Ejemplo\obj\Debug\Ejemplo.pdb
